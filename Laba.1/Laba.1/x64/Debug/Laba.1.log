@@ -1,0 +1,4 @@
+﻿  Laba.1.cpp
+C:\Users\asd15\source\repos\Laba.1\Laba.1\Laba.1.cpp(68,28): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\asd15\source\repos\Laba.1\Laba.1\Laba.1.cpp(76,45): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Laba.1.vcxproj -> C:\Users\asd15\source\repos\Laba.1\x64\Debug\Laba.1.exe
